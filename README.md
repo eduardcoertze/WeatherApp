@@ -2,7 +2,7 @@
 
 An Android application that forecasts the weather for your current location via OpenWeather API.
 
-# What I Learned
+# What I Learnt
 
 * Update UI with API data
 * Retrofit and GSON libraries
