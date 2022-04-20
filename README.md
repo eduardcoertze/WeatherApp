@@ -8,3 +8,7 @@ An Android application that forecasts the weather for your current location via 
 * Retrofit and GSON libraries
 * Parse JSON data 
 * Find user locaition
+
+# Screenshots
+
+
